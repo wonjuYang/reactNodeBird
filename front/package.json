@@ -1,0 +1,29 @@
+{
+  "name": "react-nodebird-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "author": "triplej",
+  "license": "ISC",
+  "dependencies": {
+    "@ant-design/icons": "5.0.1",
+    "antd": "4.24.0",
+    "next": "12.3.4",
+    "next-redux-wrapper": "8.1.0",
+    "prop-types": "15.8.1",
+    "react-redux": "8.0.5",
+    "react-slick": "0.29.0",
+    "redux": "4.2.1",
+    "redux-devtools-extension": "2.13.9",
+    "styled-components": "5.3.6"
+  },
+  "devDependencies": {
+    "eslint": "8.33.0",
+    "eslint-plugin-import": "2.27.5",
+    "eslint-plugin-react": "7.32.2",
+    "eslint-plugin-react-hooks": "4.6.0"
+  }
+}
